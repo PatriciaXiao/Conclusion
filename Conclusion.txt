@@ -1,0 +1,23 @@
+﻿Art / Design in general:
+1) Creater
+Mostly about matching; matching color sets, designing an overall layout, etc. There are certain empirical detailed (maybe too detailed) rules of creating art pieces, and also principles borrowed from the field of Cognitive Psychology.
+The problem is that those empirical rules are sometimes contrasting each other, while they could be both correct at the same time (e.g. In the subfield of clothing design, they say that "smaller area means insignificant features", while in painting/photography, in some cases, smaller area exaggerates features such as brightness). Either side is correct, for artists normally care more about subjective feelings rather than objective ones (and actually there aren't universal rules about art; there are plenty of papers concerning the perceptual difference between different groups of people).
+Some are making interesting attempts for regulating the process of creation, such as the invention of "Shape Grammar", but it is not really grammar.It is almost a language system, aimed at creating new patterns, neither considering the meanings nor analyzing an existing shape.
+2) Critics
+Judging if a picture is aethetically nice-looking. (Actually there is some limitation about the existing principles, for they are based on oil paintings and might actually be not suitable for other styles, such as Chinese traditional art.) There are several principles. e.g. Balance, Harmony, Unity, Variety. Each is explained by many in details.
+However, although borrowing a lot from Cognitive Psycology (mainly Gestalt), it is actually subjective and the so-called principles are not stricktly obeyed (especially in mordern art). For example, a painting might be well-balanced but not so harmonious, while it is still a masterpiece. This is the tricky part: art pieces don't need to be perfect; and everything is based on personal feelings.
+
+Cognitive Psycology:
+1) In General
+Cognitive psychology involves neuroscience, perception, attention & consciousness, memory, knowledge, language, behavior (such as problem-solving, and decision-making), etc.
+The branch that is the most closely related with visualization is proabably perception, followed by attention & conciousness. Actually the other parts are not radically separated from the field of perception.
+Looking into perception, especially visual perception, there is an important theory about explaining the organization of our feelings, named Gestal Theory. Gestalt theory cares about structure, and organization of our understanding of the world. It is developed decades ago, with many conclusions and statements proved wrong today. Gestalt is a theory (or a system including some methodology) of explaining the world, which is based on the basic principles of: Emergence (observed as a whole), Reification (to "create" some features that are not directly presented), Multistability (organized, probably switching among multiple possible explainations), Invariance (e.g. that the object remains the same when some changes occurs, or something appears to be "suddenly dissappeared" or so).
+2) Gestalt
+Gestalt: Rudolf Arnheim 
+Gestalt is greatly helpful in explaining visual perceptions. Some early Gestalt psychologists had Filming backgrounds, while famouse Arnheim aimed mostly in art.
+3) Psychoanalytic
+Freud, Adler and Jung, they are also doing art-related research.
+4) Psychology of Art (Rudolf Arnheim)
+Rudolf Arnheim was an pioneer of Gestalt Psychology. He is, actually, 
+
+References:
