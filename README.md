@@ -1,4 +1,5 @@
 # Conclusion
-about Art and Psychology
-The Conclusion made by Zhiping Xiao about Psychology & Art (especially drawing) that might be related with Visualization.
+the Art / Psychology points of visual perception
+that could be related with Visualization
+Patricia Xiao
 Nov. 11th, 2015
