@@ -1,0 +1,26 @@
+Tree visualization with Tree-maps: A 2-d space-filling approach
+1992
+
+Color-coding
+1995
+
+CLUSTER ANALYSIS AND DATA VISUALIZATION OF LARGESCALE GENE EXPRESSION DATA
+1998
+
+A SOM based cluster visualization and its application for false coloring
+2000
+
+Visual_Search_the_review.pdf
+2002
+
+User Experiments with Tree Visualization Systems
+2004
+
+The InfoVis Toolkit.pdf
+2004
+infovis-0.7alpha1.zip
+http://ivtk.sourceforge.net/
+http://philogb.github.io/infovis/
+
+Color Design for Illustrative Visualization
+2008 
