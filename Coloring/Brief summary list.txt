@@ -1,0 +1,94 @@
+Progress in Color Composition
+1987
+
+Tree visualization with Tree-maps: A 2-d space-filling approach
+1992
+
+Color-coding
+1995
+
+CLUSTER ANALYSIS AND DATA VISUALIZATION OF LARGESCALE GENE EXPRESSION DATA
+1998
+
+A SOM based cluster visualization and its application for false coloring
+2000
+
+Visual_Search_the_review.pdf
+2002
+
+User Experiments with Tree Visualization Systems
+2004
+
+The InfoVis Toolkit.pdf
+2004
+infovis-0.7alpha1.zip
+http://ivtk.sourceforge.net/
+http://philogb.github.io/infovis/
+
+Incorporating Groups into A Mathematical Model of Color Harmony for Generating Color Schemes for Computer Interfaces
+2005
+http://www-ist.massey.ac.nz/plyons/Papers%20(Mine)/Lyons%20%26%20Moretti%202005%20-%20Incorporating%20Groups%20-%20VECIMS%202005.pdf
+
+http://www.easyrgb.com/index.php?X=HARM#Result
+http://colors.mshaffer.com/
+
+
+Color Design for Illustrative Visualization
+2008 
+
+Treemaps for space-constrained visualization of hierarchies
+2009
+Tools listed
+
+Color Barycenter Hexagon (CBH) (?)
+
+Nine Tools for Generating Harmonious Colour Schemes.pdf
+2004
+Tools listed
+
+An Interactive Method for Generating Harmonious Color Schemes
+2014
+
+Understanding popular relationships among colors through the network analysis for crowd sourced color data.pdf
+# closely related
+
+
+
+
+
+A SOM based cluster visualization and its application for false coloring
+
+SOM
+false coloring: We have an intensity (gray level) coding I (X), where X contains locations of the SOM units at some step of the contraction iteration
+
+
+
+Visual_Search_the_review
+
+reaction time (RT)
+stimulus onset asynchrony (SOA)
+Efficiency is merely a descriptive term and does not carry with it the theoretical baggage of "parallel", "serial" and so forth. 
+
+Color P8 P9
+As the difference shrinks, the slope of the RT x set size function rises. Nagy and Sanchez (1990) identified the smallest color difference that supported efficient search. This can be thought of as a preattentive just noticable difference (preattentive JND)
+they found that smaller color differences would support efficient search
+D'Zmura has proposed that efficient search is possible whenever the target and distractor colors lie on different sides of a line drawn through color space. This is illustrated in Figure Seven.
+
+Treisman's argument is that it is easier to find the
+deviation from red than to find red among deviants. Another way to describe the result is to say that targets are easy to find if and only if
+they contain some unique basic feature information. Magenta contains "blue" and can be found by looking for blue among distractors that
+are not blue. Red contains red, but so does magenta. This search is less efficient because is relatively more difficult to look for "reddest" or
+"not blue". In this account, preattentive color space is divided into a few regions, a few basic colors. Indeed, many of the results with large
+color differences can be simulated in a model that assumes four basic colors in preattentive processing: red, yellow, green, and blue (Wolfe,
+1994). The apparently categorical description of large color differences and the linear separablity account of search with smaller
+differences remain to be reconciled in a single description of the preattentive representation of color.
+
+Specifically, the systematic work on color search has been done in two dimensions of color space. It needs to be extended into the third, luminance dimension.
+
+
+Color Design for Illustrative Visualization 
+
+InfoVis
+
+Incorporating Groups into A Mathematical Model of Color Harmony for Generating Color Schemes for Computer Interfaces
+
